@@ -3,7 +3,7 @@ import Page from "@/app/page";
 import { Providers } from "@/components/providers";
 
 describe("Create Turtle Form", () => {
-  it("renders a form", () => {
+  it("render form", () => {
     render(
       <Providers>
         <Page />
